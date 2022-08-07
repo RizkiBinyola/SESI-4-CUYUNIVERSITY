@@ -1,3 +1,65 @@
-# SESI-4-CUYUNIVERSITY
-TUGAS CUYUNIVERSITY - SEMESTER 1 SESI 4 WEB  JUDUL SESI: CETRAK CETREK LAMPU JAVASCRIPT
- <a href="https://cuyuniverse.co/author/Rizkirb" class="text-xl mt-5"><span><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" style="max-width: 100%; display: inline-block;" width="40px" alt=""></span> RizkiRb</a>
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Ruang Keluarga</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-neutral-900 text-slate-200">
+    <ul
+        class="flex flex-wrap text-sm font-medium text-center text-gray-500 border-b border-gray-200 white:border-gray-700 white:text-gray-400">
+        <li class="mr-2">
+            <a href="index.html" aria-current="page"
+                class="inline-block p-4 text-blue-600 bg-gray-100 rounded-t-lg whtie:bg-gray-800 white:text-blue-500">Home</a>
+        </li>
+        <li class="mr-2">
+            <a href="ruangankeluarga.html"
+                class="inline-block p-4 rounded-t-lg hover:text-gray-600 hover:bg-gray-50 white:hover:bg-gray-800 white:hover:text-gray-300">Ruang
+                Keluarga</a>
+        </li>
+        <li class="mr-2">
+            <a href="ruanganmakan.html"
+                class="inline-block p-4 rounded-t-lg hover:text-gray-600 hover:bg-gray-50 white:hover:bg-gray-800 white:hover:text-gray-300">Ruang
+                Makan</a>
+        </li>
+        <li class="mr-2">
+            <a href="ruangantidur.html"
+                class="inline-block p-4 rounded-t-lg hover:text-gray-600 hover:bg-gray-50 white:hover:bg-gray-800 white:hover:text-gray-300">Ruang
+                Tidur</a>
+        </li>
+        <li class="mr-2">
+            <a href="ruangtamu.html"
+                class="inline-block p-4 rounded-t-lg hover:text-gray-600 hover:bg-gray-50 white:hover:bg-gray-800 white:hover:text-gray-300">Ruang
+                Tamu</a>
+        </li>
+    </ul>
+
+    <!-- Home -->
+    <center>
+        <div class="flex justify-center">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/vQeJIa-ZYm4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <h1 class="font-semibold mt-3 mb-3"><span><img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" style="max-width: 100%; display: inline-block;" width="40px" alt=""></span> SESI4 - HTML CSS JS (Cetrekan Lampu)</h1>
+        <ul class="list-inside">
+            <li>1. BIKIN 10 LAMPU DENGAN FUNGSI SAMA SEPERTI MATERI PEMBELAJARAN</li>
+            <li>2. BIKIN 4 GRUP LAMPU (RUANGAN) DENGAN DETAIL SEBAGAI BERIKUT:</li>
+
+            <li class="mt-2">-RUANGAN KELUARGA (3 LAMPU)</li>
+            <li>-RUANGAN MAKAN (1 LAMPU)</li>
+            <li>-RUANGAN TIDUR (2 LAMPU)</li>
+            <li class="mb-2">-RUANGAN TAMU (4 LAMPU )</li>
+                
+            <li>📝 NOTES: ADA TOMBOL SAKLAR PER LAMPU DAN JUGA SAKLAR PER GRUP LAMPU.</li>
+                
+            <li>3. BONUS TAMPILAN DI BIKIN MENARIK SEMENARIK MENARIKNYA.</li>
+            <li>4. BEBAS BERKREASI.</li>
+        </ul>
+        <a href="https://cuyuniverse.co/author/Rizkirb" class="text-xl mt-5"><span><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" style="max-width: 100%; display: inline-block;" width="40px" alt=""></span> RizkiRb</a>
+    </center>
+
+</body>
+
+</html>
