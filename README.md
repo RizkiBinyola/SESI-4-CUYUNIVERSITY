@@ -1,24 +1,14 @@
- <h2><span><img src="https://camo.githubusercontent.com/2c8b3670d933220ae3c023fa1d568682975cce3f10799d0d3ff5ecac394b4ee8/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31326f75664342304d795a31476f2f67697068792e676966" style="max-width: 100%; display: inline-block;" width="40px" alt=""></span> TUGAS CUYUNIVERSITY - SEMESTER 1 SESI 4 WEB</h2>
- 
- ### Connect with me:
+<h2 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> TUGAS CUYUNIVERSITY - SEMESTER 1 SESI 4 WEB<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
- 
-<br>
- 
+<p align="center"><em>Author this repo <a href="https://forum.cuyuniverse.co/author/Rizkirb">RizkiRb
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+<p align="center">
+    <a href="https://www.youtube.com/channel/UCSywOZ7zkoS2Gpn4OVi8B8g"><img alt="GitHub Repo stars" src="https://img.shields.io/youtube/channel/subscribers/UCSywOZ7zkoS2Gpn4OVi8B8g?label=Subscribe&logo=youtube&style=social"></a>
+    <a href="https://github.com/RizkiBinyola"><img alt="GitHub Repo stars" src="https://img.shields.io/github/followers/RizkiBinyola?label=Follow&logo=github&style=social"></a>
+  </p>
+
  <h3>JUDUL SESI : CETRAK CETREK LAMPU JAVASCRIPT</h3>
  <h4>Tugas Sesi 4 : ⬇️</h4>
  
@@ -41,4 +31,22 @@
  </ol>
  <br>
  
- <h5>Author this repo <a href="https://cuyuniverse.co/author/Rizkirb" class="text-xl mt-5" style="text-decoration: none;">RizkiRb <span><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" style="max-width: 100%; display: inline-block;" width="30px" alt=""></span></a></h5>
+ ### Languages and Tools:
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<br />
+<br />
+
+---
+ 
+  ### Connect with me:
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCSywOZ7zkoS2Gpn4OVi8B8g#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCSywOZ7zkoS2Gpn4OVi8B8g#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/kii.rb#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/kii.rb#gh-dark-mode-only)
+ 
